@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat Can BAKIR</h1>
-<h3 align="center">2nd year software engineer student focusing on backend development</h3>
+<h3 align="center">2nd year software engineering student focusing on backend development</h3>
 
 - The frontend side of the project I'm most proud of [Lomza-Web-FrontEnd](https://github.com/SerhatCanBakir/Lomza-Web-FrontEnd)
 
