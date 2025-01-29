@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node-addon-api**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SerhatCanBakir?tab=repositories](https://github.com/SerhatCanBakir?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/SerhatCanBakir?tab=repositories)
 
 - 💬 Ask me about **Express.js node.js socket.io**
 
