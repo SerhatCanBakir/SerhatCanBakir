@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat Can BAKIR</h1>
-<h3 align="center">2nd year software engineering student focusing on backend development</h3>
+<h3 align="center">2nd year software engineering student focusing on backend and network development</h3>
 
 - the project I'm most proud of [httpserver](https://github.com/SerhatCanBakir/httpServer)
 
@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **serhat2534serhat@outlook.com**
 
-- ⚡ Fun fact **I love coffee**
+-⚡ Fun fact: I enjoy building things from scratch, whether it's a server or my next cup of coffee.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
