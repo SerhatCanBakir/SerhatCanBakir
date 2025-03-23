@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Serhat Can BAKIR</h1>
 <h3 align="center">2nd year software engineering student focusing on backend development</h3>
 
-- The frontend side of the project I'm most proud of [Lomza-Web-FrontEnd](https://github.com/SerhatCanBakir/Lomza-Web-FrontEnd)
+- the project I'm most proud of [httpserver](https://github.com/SerhatCanBakir/httpServer)
 
-- The backend side of the project I'm most proud of [LomzaWebBackEnd](https://github.com/SerhatCanBakir/LomzaWebBackEnd)
-
-- 🌱 I’m currently learning **Node-addon-api**
+- 🌱 I’m currently learning **Network Programing**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SerhatCanBakir?tab=repositories)
 
-- 💬 Ask me about **Express.js node.js socket.io**
+- 💬 Ask me about **Express.js, Node.js, Socket.io, or low-level network programming (sockets, epoll, protocols)**
 
 - 📫 How to reach me **serhat2534serhat@outlook.com**
 
