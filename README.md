@@ -14,8 +14,7 @@ Final-year Software Engineering student — backend, systems and infrastructure
 
 I build backend services and the infrastructure they run on: ASP.NET Core and
 Java APIs, React front-ends, and the deployment layer around them — Docker
-images, Jenkins pipelines, Nginx reverse proxies. On the side I work on hardware
-integration, connecting ESP microcontrollers to .NET services.
+images, Jenkins pipelines, Nginx reverse proxies.
 
 Currently interning at **NextNormal Teknoloji**.
 
@@ -48,5 +47,4 @@ Currently interning at **NextNormal Teknoloji**.
 ### Ask Me About
 
 ASP.NET Core service architecture · relational schema design ·
-Docker and Jenkins pipelines · Nginx reverse proxy configuration ·
-microcontroller-to-backend integration
+Docker and Jenkins pipelines · Nginx reverse proxy configuration
