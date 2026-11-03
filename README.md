@@ -31,12 +31,6 @@ them — Docker images, Jenkins pipelines, Nginx reverse proxies, Linux servers.
 | **[yazarkasasatis.com](https://yazarkasasatis.com/)** | POS terminal e-commerce — iyzico payments, bank-transfer checkout with IBAN validation, order tracking | TypeScript · Express · Prisma · React |
 | **[doganemlakgroup.com](https://www.doganemlakgroup.com/)** | Real-estate listing platform for a Samsun-based agency | Express · React · PostgreSQL |
 
-### Highlights
-
-- 🏆 **TEKNOFEST** Robotics Applications in Industry — finalist, software team lead
-- 🔬 **TÜBİTAK 2209-A** research grant — BLE Mesh disaster reporting system
-- 📜 Bimser **Synergy Consultancy Certificate** (2026)
-
 ### Stack
 
 **Languages**
