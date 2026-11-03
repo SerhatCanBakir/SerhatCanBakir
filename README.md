@@ -2,9 +2,9 @@
 
 # Serhat Can Bakır
 
-Final-year Software Engineering student — backend, systems and infrastructure
+Software Engineer — backend, systems and infrastructure
 
-<a href="https://www.linkedin.com/in/serhat-can-bakir-53850125a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:serhat2534serhat@outlook.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a> <a href="https://github.com/SerhatCanBakir?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://www.linkedin.com/in/serhatcanbakir/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:serhatcanbakir2534@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/SerhatCanBakir?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 </div>
 
@@ -12,19 +12,31 @@ Final-year Software Engineering student — backend, systems and infrastructure
 
 ### About
 
-I build backend services and the infrastructure they run on: ASP.NET Core and
-Java APIs, React front-ends, and the deployment layer around them — Docker
-images, Jenkins pipelines, Nginx reverse proxies.
+I build backend services and the infrastructure they run on: ASP.NET Core,
+Spring Boot and Express APIs, React front-ends, and the deployment layer around
+them — Docker images, Jenkins pipelines, Nginx reverse proxies, Linux servers.
 
-Currently interning at **NextNormal Teknoloji**.
+- **Software Specialist at NextNormal Teknoloji** — .NET / React development,
+  enterprise workflow apps on Bimser Synergy CSP, CI/CD and server management
+- Final-year Software Engineering student at **Kocaeli University** (Erasmus+ at University of Łomża)
+- Freelance full-stack work in production, including payment integrations
+  (Garanti BBVA 3D Pay, iyzico)
 
 ### Selected Work
 
 | Project | | Stack |
 | :--- | :--- | :--- |
-| **[bilokmaiyilik.com](https://bilokmaiyilik.com/)** | Social-enterprise donation platform — purchased meal packages are delivered to people in need the same day | Java · React · PostgreSQL |
-| **[doganemlakgroup.com](https://www.doganemlakgroup.com/)** | Real-estate listing platform for a Samsun-based agency — rentals, sales, land and commercial property | Express · React · PostgreSQL |
-| **[BifrostServe](https://github.com/SerhatCanBakir/httpServer)** | HTTP server written from scratch in C — custom router, middleware chain, event-driven I/O | C |
+| **[BiLokma](https://bilokmaiyilik.com/)** | Social-enterprise meal donation platform — Garanti BBVA 3D Pay Hosting with HMAC-SHA512 callback verification, JWT auth, SMS and Web Push | Java · Spring Boot · PostgreSQL |
+| **Bilokma Rezervasyon** | Catering operations system — reservations, daily inventory, customer ledger, attribute-based access control | React · Express · Prisma · PostgreSQL |
+| **[yazarkasasatis.com](https://yazarkasasatis.com/)** | POS terminal e-commerce — iyzico payments, bank-transfer checkout with IBAN validation, order tracking | TypeScript · Express · Prisma · React |
+| **[doganemlakgroup.com](https://www.doganemlakgroup.com/)** | Real-estate listing platform for a Samsun-based agency | Express · React · PostgreSQL |
+
+### Highlights
+
+- 🏆 **TEKNOFEST** Robotics Applications in Industry — finalist, software team lead
+- 🔬 **TÜBİTAK 2209-A** research grant — BLE Mesh disaster reporting system
+- 🧑‍💻 Co-organizer of **base41: Hackathon**, the first hackathon in Kocaeli (80 participants)
+- 📜 Bimser **Synergy Consultancy Certificate** (2026)
 
 ### Stack
 
@@ -46,5 +58,6 @@ Currently interning at **NextNormal Teknoloji**.
 
 ### Ask Me About
 
-ASP.NET Core service architecture · relational schema design ·
-Docker and Jenkins pipelines · Nginx reverse proxy configuration
+ASP.NET Core service architecture · payment integrations (3D Secure, HMAC) ·
+relational schema design · MCP servers · Docker and Jenkins pipelines ·
+Nginx reverse proxy configuration
