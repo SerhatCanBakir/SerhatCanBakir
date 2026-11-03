@@ -35,7 +35,6 @@ them — Docker images, Jenkins pipelines, Nginx reverse proxies, Linux servers.
 
 - 🏆 **TEKNOFEST** Robotics Applications in Industry — finalist, software team lead
 - 🔬 **TÜBİTAK 2209-A** research grant — BLE Mesh disaster reporting system
-- 🧑‍💻 Co-organizer of **base41: Hackathon**, the first hackathon in Kocaeli (80 participants)
 - 📜 Bimser **Synergy Consultancy Certificate** (2026)
 
 ### Stack
